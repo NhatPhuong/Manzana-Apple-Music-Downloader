@@ -6,3 +6,4 @@ requests
 pycryptodomex
 beautifulsoup4
 sanitize_filename
+lxml
